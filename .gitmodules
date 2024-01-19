@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/famuvie/universe
-	shallow = true
 	branch = HEAD
 [submodule "breedR"]
 	path = breedR
 	url = https://github.com/famuvie/breedR
-	shallow = true
-	registered = true
 [submodule "geoRcb"]
 	path = geoRcb
 	url = https://github.com/famuvie/geoRcb
-	shallow = true
-	registered = true
