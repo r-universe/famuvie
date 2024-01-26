@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/famuvie/universe
+	url = https://github.com/famuvie/famuvie.r-universe.dev
 	branch = HEAD
 [submodule "breedR"]
 	path = breedR
